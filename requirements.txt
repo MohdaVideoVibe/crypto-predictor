@@ -1,8 +1,25 @@
+# UI / runtime
 streamlit==1.35.0
+
+# data / crypto API
 pycoingecko==2.1.0
 pandas==2.1.4
 numpy==1.26.4
-joblib==1.3.2
-requests==2.32.5
 python-dateutil==2.9.0.post0
 pytz==2025.2
+requests==2.32.5
+
+# joblib used in your code
+joblib==1.3.2
+
+# plotting / visuals
+matplotlib==3.8.1
+# optional helpers (only add if you import them)
+# seaborn==0.13.2
+# plotly==5.16.0
+
+# ML / utilities (add if you use these imports)
+scikit-learn==1.4.2
+
+# arrow/parquet support if you use pyarrow
+pyarrow==22.0.0
