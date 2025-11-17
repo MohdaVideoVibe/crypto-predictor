@@ -1,5 +1,5 @@
-# minimal reliable set for Streamlit Cloud (Pillow pinned to avoid build error)
-pillow==9.6.0
+# pinned to avoid Pillow build issues on Streamlit Cloud
+pillow==11.3.0
 streamlit==1.26.0
 pycoingecko==2.1.0
 pandas==2.1.1
