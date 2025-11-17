@@ -45,3 +45,4 @@ Streamlit Cloud will provide a stable URL like `https://share.streamlit.io/<user
 
 ## Notes
 - This is an experimental tool for learning. Not financial advice.
+- <!-- trigger redeploy -->
